@@ -7,6 +7,7 @@ A Requirement for the Course: Cloud and Distributed Systems (SICT 4313)
 Instructor: Dr. Rebhi S. Baraka
 
 Abstract
+
 Our project explores the potential of distributed computing for processing, analyzing, and scaling large datasets using the Databricks cloud platform. We also utilized data from UCI Machine Learning and employed Apache Spark to handle the required tasks.
 Two strategies were employed for data processing:
 First, descriptive data analysis to obtain descriptive information about the file uploaded to the Databricks platform, such as the number of rows and columns, and to identify the data type, displaying the Mean, Stddev, Min, and Max values for all data.
